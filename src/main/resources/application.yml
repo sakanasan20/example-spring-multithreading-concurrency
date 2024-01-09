@@ -1,0 +1,6 @@
+spring:
+  profiles:
+    active:
+    - ExampleCreateThread
+    - ExampleInheritThread
+    - ExampleGuessingPassword
