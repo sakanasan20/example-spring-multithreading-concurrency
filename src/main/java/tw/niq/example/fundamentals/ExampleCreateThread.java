@@ -1,4 +1,4 @@
-package tw.niq.example.thread;
+package tw.niq.example.fundamentals;
 
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.context.annotation.Profile;

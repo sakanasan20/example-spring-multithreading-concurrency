@@ -1,4 +1,4 @@
-package tw.niq.example.thread;
+package tw.niq.example.fundamentals;
 
 import java.util.ArrayList;
 import java.util.List;
