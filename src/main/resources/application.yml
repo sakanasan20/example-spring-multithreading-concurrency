@@ -4,3 +4,7 @@ spring:
     - ExampleCreateThread
     - ExampleInheritThread
     - ExampleGuessingPassword
+    - ExampleInterruptSleepingThread
+    - ExampleInterruptLongComputationThread
+    - ExampleInterruptDaemonThread
+    - ExampleJoinThread
